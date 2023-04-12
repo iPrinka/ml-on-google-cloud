@@ -16,3 +16,9 @@
   - Identify modern data pipeline challenges and how to solve them at scale with Dataflow
   - Build collaborative real-time dashboards with data visualization tools.
   - Create a streaming data pipeline for a real-time dashboard with Dataflow.
+
+- **Big Data with BigQuery**
+  - Describe the essentials of BigQuery as a data warehouse
+  - Explain how BigQuery processes queries and stores data.
+  - Define the BigQuery ML project phases.
+  - Build a custom machine learning model with BigQuery ML.
