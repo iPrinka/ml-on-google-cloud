@@ -1,6 +1,6 @@
 # Google Cloud Big Data and Machine Learning Fundamentals
 
-## Week1
+## Week 1
 
 - **Big Data and Machine Learning on Google Cloud**
   - Identify how elements of the Google Cloud infrastructure have enabled big data and machine learning capabilities.
@@ -22,3 +22,19 @@
   - Explain how BigQuery processes queries and stores data.
   - Define the BigQuery ML project phases.
   - Build a custom machine learning model with BigQuery ML.
+
+## Week 2
+
+- **Machine Learning Options on Google Cloud**
+  - Identify the options available to build ML models on Google Cloud.
+  - Identify the major features and benefits of Vertex AI.
+
+- **Machine Learning Workflow with VertexAI**
+  - Describe the key stages of the machine learning workflow.
+  - Identify the products and technologies that support each stage of the machine learning workflow.
+  - Build an end-to-end ML workflow using AutoML.
+    - Upload a dataset to Vertex AI.
+    - Train a machine learning model with AutoML.
+    - Evaluate the model performance.
+    - Deploy the model to an endpoint.
+    - Get predictions.

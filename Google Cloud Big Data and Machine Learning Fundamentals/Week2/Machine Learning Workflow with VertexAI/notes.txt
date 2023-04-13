@@ -1,0 +1,4 @@
+Vertex AI:
+
+Vertex AI is the unified AI platform on Google Cloud to train and deploy a ML model.
+Vertex AI offers two options on one platform to build a ML model: a codeless solution with AutoML and a code-based solution with Custom Training using Vertex Workbench.
