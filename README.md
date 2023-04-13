@@ -1,6 +1,6 @@
 # ml-on-google-cloud
 
-This repository contains my work for the ML Engineering Path on Google Cloud offered by Google on Coursera.
+This repository contains my work/notes for the ML Engineering Path on Google Cloud offered by Google on Coursera.
 
 The courses are:
 
