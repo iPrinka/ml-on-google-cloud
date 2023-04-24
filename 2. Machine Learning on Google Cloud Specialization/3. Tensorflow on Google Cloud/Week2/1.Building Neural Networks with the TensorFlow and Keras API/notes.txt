@@ -1,0 +1,21 @@
+Keras Sequential API
+
+The Keras sequential API allows you to create Tensorflow models layer-by-layer. This is useful for building most kinds of machine learning models but it does not allow you to create models that share layers, re-use layers or have multiple inputs or outputs. 
+
+
+Training the model
+
+To train your model, Keras provides three functions that can be used:
+
+    .fit() for training a model for a fixed number of epochs (iterations on a dataset).
+    .fit_generator() for training a model on data yielded batch-by-batch by a generator
+    .train_on_batch() runs a single gradient update on a single batch of data.
+
+The .fit() function works well for small datasets which can fit entirely in memory. Wshen calling .fit the method inspects the data, and if it's a generator (as our dataset is) it will invoke automatically .fit_generator for training. 
+However, for large datasets (or if you need to manipulate the training data on the fly via data augmentation, etc) you will need to use .fit_generator() instead. 
+The .train_on_batch() method is for more fine-grained control over training and accepts only a single batch of data.
+
+Subclassing:
+
+Subclassing refers to inheriting properties for a new object from a base or superclass object.
+Check out the Subclassing lab - it's really interesting!
