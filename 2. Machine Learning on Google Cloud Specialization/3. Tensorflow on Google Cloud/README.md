@@ -29,3 +29,11 @@
   - Use feature columns in a Keras model
   - Save/load, and deploy a Keras model on Vertex AI
   - Describe model subclassing
+
+
+## Week3
+
+- **Training at scale with Vertex AI**
+  - Use TensorFlow to create your training job
+  - Package up a TensorFlow model as Python package
+  - Configure, start, and monitor a Vertex AI training job
