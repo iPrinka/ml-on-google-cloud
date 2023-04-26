@@ -7,9 +7,9 @@ The courses are:
 - [Google Cloud Big Data and ML Fundamentals](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals/home/welcome)
 
 - [Machine Learning on Google Cloud Specialization](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp)
-  - How Google does Machine Learning?
-  - Launching into Machine Learning
-  - Tensorflow on Google Cloud
+  - [How Google does Machine Learning?](https://www.coursera.org/learn/google-machine-learning)
+  - [Launching into Machine Learning](https://www.coursera.org/learn/launching-machine-learning)
+  - [Tensorflow on Google Cloud](https://www.coursera.org/learn/intro-tensorflow)
   - Feature Engineering
   - Machine Learning in the Enterprise
 
