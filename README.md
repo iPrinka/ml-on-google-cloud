@@ -10,7 +10,7 @@ The courses are:
   - [How Google does Machine Learning?](https://www.coursera.org/learn/google-machine-learning)
   - [Launching into Machine Learning](https://www.coursera.org/learn/launching-machine-learning)
   - [Tensorflow on Google Cloud](https://www.coursera.org/learn/intro-tensorflow)
-  - Feature Engineering
+  - [Feature Engineering](https://www.coursera.org/learn/feature-engineering)
   - Machine Learning in the Enterprise
 
 - [Advanced ML on Google Cloud Specialization](https://www.coursera.org/specializations/advanced-machine-learning-tensorflow-gcp)
